@@ -14,7 +14,7 @@ const Header = () => {
 const styles = StyleSheet.create({
     header: {
         height: 80,
-        justifyContent: "center", //paddingTop 38 vermisşti
+        justifyContent: "center", 
         backgroundColor: '#778899',
     },
     title: {
