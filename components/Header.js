@@ -6,7 +6,7 @@ import { StyleSheet, Text, View, FlatList } from "react-native";
 const Header = () => {
     return (
         <View style={styles.header}>
-            <Text style={styles.title}>Toda App</Text>
+            <Text style={styles.title}>Todo App</Text>
         </View>
     )
 }
